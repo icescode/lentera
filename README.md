@@ -6,13 +6,11 @@ Lentera adalah bot kecerdasan buatan antar lintas pesan instan, saat ini lentera
 
 2. Mesin Translator yang hidup WhatsApp dan Telegram
 
-3. Tidak diperlukan akun bisnis untuk WhatsApp
-
-Bot pesan instan saat ini banyak dipakai oleh layanan Pendukung perusahaan (support center), tetapi keperluan tersebut sifat nya lebih ke CRM. Lentera adalah universal 
+Bot pesan instan saat ini banyak dipakai oleh layanan Pendukung perusahaan (support center) dengan menggunakan WhatsApp Bisnis, tetapi keperluan tersebut sifat nya lebih ke CRM. Lentera adalah universal tidak membutuhkan akun WhatsApp bisnis. 
 
 # Motivasi
 
-Bukankah perambah Google  sudah ada dan pengguna tinggal membuka perambah tersebut ? itu adalah pertanyaan yang paling sering dilemparkan, tetapi bayangkan jika kita dapat melakukan pencarian langsung di aplikasi WhatsApp tanpa perlu pindah ke aplikasi lainnya seperti perambah, dan hasil pencarian sudah diformat sedemikian rupa sehingga mudah dalam menyalin dan menampal hasil tersebut untuk dikirim ke lawan bicara. Tentu saja ini hanya satu skenario, dengan kemampuan terhubung ke semua database yang ditengahi oleh Rest API Json, Lentera dapat menjadi aplikasi apa saja  yang diinginkan.
+Bukankah perambah Google  sudah ada dan pengguna tinggal membuka perambah tersebut ? itu adalah pertanyaan yang paling sering dilemparkan, tetapi bayangkan jika kita dapat melakukan pencarian langsung di aplikasi WhatsApp/Telegram tanpa perlu pindah ke aplikasi lainnya seperti perambah, dan hasil pencarian sudah diformat sedemikian rupa sehingga mudah dalam menyalin dan menampal hasil tersebut untuk dikirim ke lawan bicara. Tentu saja ini hanya satu skenario, dengan kemampuan terhubung ke semua database yang ditengahi oleh rest API Json, Lentera dapat menjadi aplikasi apa saja  yang diinginkan.
 
 
 
@@ -24,6 +22,7 @@ Lentera menggunakan beragam teknologi, seperti Dart untuk sisi pemrograman aplik
 
 ![Chart1.jpg](Chart1.jpg)
 
+
 # Kebutuhan Hardware dan software
 
 1. Akun WhatsApp/Telegram dan nomor yang aktif
@@ -34,4 +33,4 @@ Lentera menggunakan beragam teknologi, seperti Dart untuk sisi pemrograman aplik
 
 4. Sistem operasi Linux server (Debian, Ubuntu atau Redhat)
 
-5. Database Provider (exsiting aplikasi) yang dapat memberikan hubungan melalui Json Rest API
+5. Database Provider (exsisting aplikasi) yang dapat memberikan hubungan melalui Json Rest API
